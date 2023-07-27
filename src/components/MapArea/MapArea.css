@@ -1,0 +1,16 @@
+/* MapArea.css */
+
+.map-area {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+     /* Make the component take the full viewport height */
+  }
+  
+  .map-container {
+    display: flex; /* Make the map container take the available height */
+    height: 100%;
+    width: 100%;
+  }
+  
+  
